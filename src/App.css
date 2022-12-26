@@ -1,0 +1,33 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.Container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: aliceblue;
+  text-align: center;
+  border-radius: 20px;
+}
+
+.CardLogin {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 25px 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+input,
+button {
+  width: 100%;
+}
